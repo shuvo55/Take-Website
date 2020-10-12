@@ -1,0 +1,285 @@
+
+
+/* Extra small devices (portrait phones, less than 576px)*/
+@media (min-width: 320px) and (max-width: 575.98px) {
+    .navbar-brand img{
+        margin-left:10px;
+    }
+    .banner_con h4{
+        font-size:30px;
+        text-align: justify;
+    }
+    
+    .banner_con p{
+        font-size:15px;
+        text-align: justify;
+    }
+    
+    .left_para h4{
+        font-size: 20px;
+    }
+    
+    .left_para p{
+        font-size: 15px;
+        margin-bottom:10px;
+    }
+    
+    .right_con p{
+        font-size:15px;
+        margin-top:10px;
+        margin-bottom: 15px;
+    }
+    
+   /*service part*/
+    .one p{
+        margin-top:-10px;
+    }
+    
+    .two p{
+        margin-top:-10px;
+    }
+    
+    .three p{
+        margin-top:-10px;
+    }
+    
+    .four p{
+        margin-top:-10px;
+    }
+    
+    .five p{
+        margin-top:-10px;
+    }
+    
+    .detail_con p {
+        margin-bottom: 10px;
+    }
+  /*detail part css*/
+    .detail_con h4{
+        margin-bottom: 10px;
+    }
+    
+    .detail_con p {
+        margin-bottom: 20px;
+    }
+    
+   /*car image part*/
+    .car_con h3{
+        font-size:30px;
+    }
+    
+    .car_con p{
+        font-size:15px;
+    }
+    
+    .car_con h5{
+        font-size: 15px;
+    }
+    
+/*   onboard part */
+    .onboard_header h4{
+        font-size: 25px;
+        margin-bottom: 20px;
+    }
+    
+    .onboard_con h4{
+        font-size: 20px;
+        margin-bottom: 10px;
+    }
+    
+    .onboard_con p{
+        font-size: 15px;
+        margin-bottom: 25px;
+    }
+    
+/*   legacy part */
+    .left_legacy_para h2{
+        margin-top: 20px;
+    }
+    .left_legacy_para h4{
+        margin-top: 10px;
+    }
+    .left_legacy_para p{
+        margin-top: 10px;
+    }
+    
+    .left_legacy_para button{
+        margin-top: 10px;
+    }
+    
+    
+    .right_legacy_para h2{
+        margin-top: -20px;
+    }
+    
+    .right_legacy_para h4{
+        margin-top: 10px;
+    }
+    
+    .right_legacy_para p{
+        margin-top: 10px;
+    }
+    
+    .right_legacy_para button{
+        margin-top: 10px;
+    }
+    
+    
+/*    footer part*/
+    .f_list_item ul li a{
+        font-size: 9px;
+    }
+    
+    .f_head h4{
+        font-size: 15px;
+        margin-top: 10px;
+    }
+    
+    .f_mail p{
+        font-size: 10px;
+    }
+}
+
+
+
+  /* Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+      .navbar-brand img{
+        margin-left:15px;
+    }
+    .banner_con h4{
+        font-size:30px;
+        text-align: justify;
+    }
+    
+    .banner_con p{
+        font-size:15px;
+        text-align: justify;
+    }
+    
+    .left_para h4{
+        font-size: 20px;
+    }
+    
+    .left_para p{
+        font-size: 15px;
+        margin-bottom:20px;
+    }
+    
+    .right_con p{
+        font-size:15px;
+        margin-top:10px;
+        margin-bottom: 20px;
+    }
+    
+   /*service part*/
+    .one p{
+        margin-top:-10px;
+    }
+    
+    .two p{
+        margin-top:-10px;
+    }
+    
+    .three p{
+        margin-top:-10px;
+    }
+    
+    .four p{
+        margin-top:-10px;
+    }
+    
+    .five p{
+        margin-top:-10px;
+    }
+    
+    .detail_con p {
+        margin-bottom: 10px;
+    }
+  /*detail part css*/
+    .detail_con h4{
+        margin-bottom: 10px;
+    }
+    
+    .detail_con p {
+        margin-bottom: 20px;
+    }
+    
+   /*car image part*/
+    .car_con h3{
+        font-size:30px;
+    }
+    
+    .car_con p{
+        font-size:20px;
+    }
+    
+    .car_con h5{
+        font-size: 15px;
+    }
+    
+/*   onboard part */
+    .onboard_header h4{
+        font-size: 25px;
+        margin-bottom: 20px;
+    }
+    
+    .onboard_con h4{
+        font-size: 20px;
+        margin-bottom: 10px;
+    }
+    
+    .onboard_con p{
+        font-size: 15px;
+        margin-bottom: 25px;
+    }
+    
+/*   legacy part */
+    .left_legacy_para h2{
+        margin-top: 20px;
+    }
+    .left_legacy_para h4{
+        margin-top: 10px;
+    }
+    .left_legacy_para p{
+        margin-top: 10px;
+    }
+    
+    .left_legacy_para button{
+        margin-top: 10px;
+    }
+    
+    
+    .right_legacy_para h2{
+        margin-top: -20px;
+    }
+    
+    .right_legacy_para h4{
+        margin-top: 10px;
+    }
+    
+    .right_legacy_para p{
+        margin-top: 10px;
+    }
+    
+    .right_legacy_para button{
+        margin-top: 10px;
+    }
+    
+    
+/*    footer part*/
+    .f_list_item ul li a{
+        font-size: 9px;
+    }
+    
+    .f_head h4{
+        font-size: 15px;
+        margin-top: 20px;
+    }
+    
+    .f_mail p{
+        font-size: 10px;
+    }
+   }
+
+
